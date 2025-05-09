@@ -8,7 +8,7 @@ class node:
 
     def insert_beginning(self, data):
         newNode = node(data)
-        if self.head == None:
+        if self.head is None:
             self.head==newNode
             return
         else:
