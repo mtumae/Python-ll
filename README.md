@@ -3,7 +3,7 @@
 
 Group members:
 - Shekinah Gloria
-- Emmanuel Munida
+- Emmanuel Mundia
 - Kayla Biwott
 - Benjamin Wahothi
 - Mtume Owino
