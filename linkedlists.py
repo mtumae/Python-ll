@@ -1,4 +1,4 @@
-import llist
+
 
 class node:
     def __init__(self, data):
@@ -15,4 +15,5 @@ class node:
             newNode.next = self.head
             self.head=newNode
 
-#I'm using Pycharm
+
+#message
