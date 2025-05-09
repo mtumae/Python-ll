@@ -1,5 +1,4 @@
 
-
 class node:
     def __init__(self, data):
         self.data=data
@@ -16,4 +15,3 @@ class node:
             self.head=newNode
 
 
-#message
