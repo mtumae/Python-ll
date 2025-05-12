@@ -66,6 +66,11 @@ class slist:
         while current.next.next:
             current = current.next
         current.next = None
+
+
+    def getdelete(self, data):
+        pass
+
         
 
 
@@ -106,6 +111,8 @@ if __name__ == '__main__':
     #new.deletebeg()
     new.deletend()
     new.traverse()
+
+
 
    
    
